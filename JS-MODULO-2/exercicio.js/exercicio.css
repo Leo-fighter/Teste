@@ -1,0 +1,54 @@
+body{
+    background-color: white;
+    color: black;
+    font: 18pt normal Verdana;
+    border:double 22px red;
+    padding: 30px;
+    
+
+}
+
+header{
+    background-color: aqua;
+    font-style: italic;
+    text-align: center;
+    margin: auto;
+    padding: 5px 5px 5px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px black
+
+
+}
+
+
+section{
+
+
+}
+
+#tipo1{
+    background-color: yellow;
+    font-size: 18pt;
+    border: solid 1px black;
+}
+
+#tipo2{
+    background-color: yellow;
+    font-size: 18pt;
+    border: solid 1px black;
+}
+
+#tipo3{
+    background-color: yellow;
+    font-size: 18pt;
+    border: solid 1px black;
+}
+
+
+
+footer{
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 20px;
+
+}
